@@ -1,8 +1,11 @@
 # 🌊 Estação de Alerta de Enchente com Simulação por Joystick
 
-Projeto desenvolvido por **Luiz Filipe Ribeiro de Jesus**  
-Polo: Vitória da Conquista    
+Projeto desenvolvido por **Luiz Filipe Ribeiro de Jesus**
+
+Polo: Vitória da Conquista
+
 Professor: Wilton Lacerda Silva
+
 Mentor: Auere Vasconcelos Veras
 
 ---
@@ -83,7 +86,7 @@ Neste modo:
 1. Clone este repositório:
 ```bash
 git clone https://github.com/luizfiliperibeiro/TrabalhoSE_VDC_06.git
-
+```
 2. Compile com SDK do Pico + FreeRTOS integrado (consulte Makefile/CMakeLists.txt)
 
 3. Grave o binário na BitDog Lab (modo BOOTSEL)
