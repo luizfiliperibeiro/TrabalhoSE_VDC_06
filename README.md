@@ -82,7 +82,7 @@ Neste modo:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/estacao-alerta-enchente.git
+git clone https://github.com/luizfiliperibeiro/TrabalhoSE_VDC_06.git
 
 2. Compile com SDK do Pico + FreeRTOS integrado (consulte Makefile/CMakeLists.txt)
 
